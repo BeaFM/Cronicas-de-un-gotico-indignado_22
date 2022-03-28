@@ -10,7 +10,7 @@ Primer boceto de Nicolás el Sombras
 
 Resumen
 Personajes
-Nombre: Emily, Félix, Frank y Mark.
+Nombre: Vendedor de limones, Profesor de la Uni, Compañera de piso, Nicolás el Sombras y la Multitud.
 
 Historia
 Contexto
