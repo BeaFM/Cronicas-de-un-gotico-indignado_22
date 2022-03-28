@@ -9,13 +9,18 @@ Primer boceto de Nicolás el Sombras
 ![nicola er sombra](https://user-images.githubusercontent.com/101630955/160440979-ec9116c7-9c9f-4750-94b4-1b1cb05758e1.png)
 
 Resumen
+
 Personajes
-Nombre: Vendedor de limones, Profesor de la Uni, Compañera de piso, Nicolás el Sombras y la Multitud.
+Vendedor de limones, Profesor de la Uni, Compañera de piso, Nicolás el Sombras y la Multitud.
 
 Historia
+
 Contexto
+
 Conflicto
+
 Productos
+
 Personaje:
 
 
@@ -27,10 +32,15 @@ Storytelling: (enlace)
 
 
 Autores:
-Amara Bernal
-Bea Fuentes
-Merche Rodríguez
-Irene Ruiz
+
+🐇Amara Bernal
+
+🐸Bea Fuentes
+
+🐿️Merche Rodríguez
+
+🐧Irene Ruiz
+
 Febrero, 2022
 
 Proyecto dentro de la serie HRUN Story. Proyectos seleccionados de 2021 / 2020 / 2019 / 2018
