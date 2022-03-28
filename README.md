@@ -1,4 +1,5 @@
 Proyecto Storytelling (template):
+
 Grupo 1
 
 ![titulo](https://user-images.githubusercontent.com/101630955/160440849-5e895d2f-d33d-4c5d-978e-e6f3c543beb1.png)
@@ -10,7 +11,7 @@ Primer boceto de Nicolás el Sombras
 
 Resumen
 
-Personajes
+Personajes:
 Vendedor de limones, Profesor de la Uni, Compañera de piso, Nicolás el Sombras y la Multitud.
 
 Historia
