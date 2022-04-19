@@ -9,7 +9,7 @@ Enlace al Quiz interactivo: https://cronicasdeungotico.h5p.com/content/129159924
 Primer boceto de Nicolás el Sombras
 ![nicola er sombra](https://user-images.githubusercontent.com/101630955/160440979-ec9116c7-9c9f-4750-94b4-1b1cb05758e1.png)
 
-Resumen
+Resumen: Nicolás es un chico algo amargado, por eso le llaman (y se hace llamar) El Sombras. Uno de sus hobbies es coleccionar discos de sus grupos favoritos, y eso mismo es lo que hace que un soleado día de primavera decida salir en busca del nuevo disco de Mi Romance Químico. En el camino entre su pisillo de estudiantes y la tienda de discos se encuentra con una serie de personajes que harán imposible su llegada. ¿Conseguirá Nicolás llegar a su destino gracias al poder del screamo? Acompáñalo en esta odisea para descubrirlo.
 
 Personajes:
 Vendedor de limones, Profesor de la Uni, Compañera de piso, Nicolás el Sombras y la Multitud.
@@ -23,7 +23,7 @@ Conflicto
 Productos
 
 Personaje:
-
+![Nicolaselsombras drawio](https://user-images.githubusercontent.com/101630955/163948389-858368dd-0265-48c2-a83a-4160c1f28106.jpg)
 
 
 Banner/Teaser: (enlace)
@@ -33,6 +33,7 @@ Storytelling: (enlace)
 
 
 Autores:
+
 
 🐇Amara Bernal
 
