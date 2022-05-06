@@ -5,6 +5,7 @@ Grupo 1
 ![titulo](https://user-images.githubusercontent.com/101630955/160440849-5e895d2f-d33d-4c5d-978e-e6f3c543beb1.png)
 
 Enlace al Quiz interactivo: https://cronicasdeungotico.h5p.com/content/1291599244184863107
+
 Enlace a Arcweave: https://arcweave.com/app#/project/zr63ZLVEZR 
 
 Primer boceto de Nicolás el Sombras
@@ -27,14 +28,13 @@ Personaje:
 ![Nicolaselsombras drawio](https://user-images.githubusercontent.com/101630955/163948389-858368dd-0265-48c2-a83a-4160c1f28106.jpg)
 
 
-Banner/Teaser: (enlace)
+Banner/Teaser: https://cloud.protopie.io/p/1511389f22 
 
 Storytelling: (enlace)
 
 
 
 Autores:
-
 
 🐇Amara Bernal
 
