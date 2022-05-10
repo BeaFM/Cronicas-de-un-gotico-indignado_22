@@ -6,7 +6,7 @@ Grupo 1
 
 Enlace al Quiz interactivo: https://cronicasdeungotico.h5p.com/content/1291599244184863107
 
-Enlace a Arcweave: https://arcweave.com/app#/project/zr63ZLVEZR 
+Enlace a Arcweave: https://arcweave.com/app#/project/zr63ZLVEZR/play 
 
 Primer boceto de Nicolás el Sombras
 ![nicola er sombra](https://user-images.githubusercontent.com/101630955/160440979-ec9116c7-9c9f-4750-94b4-1b1cb05758e1.png)
